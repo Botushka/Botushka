@@ -6,7 +6,7 @@
 
 - 👨‍💻I'm planning to learn more about **C++, React, and cybersecurity**
 
-- 🌱 I’m currently learning *about everything there is to computer science*
+- 🌱 I’m currently learning **about everything there is to computer science**
 
 - 🙋‍♂️Contact me on discord **pinq@2485**
 
