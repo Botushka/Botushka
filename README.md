@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **my personal responsive website with cool features**
 
-- 👨‍💻I'm planning to learn more about **C++, React, and cybersecurity**
+- 👨‍💻I'm planning to learn more about **C++, React, Linux,  Virtual machines and cybersecurity**
 
 - 🌱 I’m currently learning **about everything there is to computer science**
 
