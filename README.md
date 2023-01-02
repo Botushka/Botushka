@@ -12,3 +12,5 @@
 
 <p align="left">
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=botushka&layout=compact)
