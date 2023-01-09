@@ -2,11 +2,10 @@
 <h3 align="center">I'm a computer science student from Finland. I'm passionate about coding and everything there is to it.</h3>
   <br>
 
-- 🔭 I’m currently working on **plugin development and CS courses**
+- 🔭 I’m currently working on **minecraft plugin development and CS courses**
+- 🎓I'm currently studying: **BSci Computer science and minors mathematics**
 
-- 👨‍💻I'm planning to learn more about **c++, Linux,  Virtual machines and cybersecurity**
-
-- 🌱 I’m currently learning **about everything there is to computer science**
+- 👨‍💻I'm planning to learn more about **Cybersecurity, Mathematics, Data science, Machine learning and AI and create own chess/minecraft/tic tac toe AI bot**
 
 - 🙋‍♂️Contact me on discord **pinq@2485**
 
