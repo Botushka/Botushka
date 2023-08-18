@@ -6,7 +6,6 @@
   ![Java](https://img.shields.io/badge/Java-gray) 
   ![Python](https://img.shields.io/badge/Python-gray)
   ![C++](https://img.shields.io/badge/C++-gray)
-  ![Bash](https://img.shields.io/badge/Docker-gray)
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-gray)
   ![React](https://img.shields.io/badge/React-gray)
@@ -27,10 +26,11 @@
   ![Maven](https://img.shields.io/badge/Maven-gray)
   ![Gradle](https://img.shields.io/badge/Gradle-gray)
   ![npm](https://img.shields.io/badge/npm-gray)
+  ![Docker](https://img.shields.io/badge/Docker-gray)
 
   ![Linux](https://img.shields.io/badge/Linux-gray)
   ![Windows](https://img.shields.io/badge/Windows-gray)
-  ![IOS](https://img.shields.io/badge/IOS-gray)
+  ![MacOS](https://img.shields.io/badge/MacOS-gray)
 
   ![Intellij Idea](https://img.shields.io/badge/Intellij_IDEA-gray)
   ![Clion](https://img.shields.io/badge/CLion-gray)
