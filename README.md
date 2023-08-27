@@ -1,7 +1,7 @@
  <h1 align="center"> Hi 👋 I'm Steve</h1>
 
   - Focused on my university studies and projects
-  - 🙋‍♂️Contact me on discord " qtpinq "
+  
   ### Tech Stack
   ![Java](https://img.shields.io/badge/Java-gray) 
   ![Python](https://img.shields.io/badge/Python-gray)
