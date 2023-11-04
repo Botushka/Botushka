@@ -35,6 +35,8 @@
   ![Intellij Idea](https://img.shields.io/badge/Intellij_IDEA-gray)
   ![Clion](https://img.shields.io/badge/CLion-gray)
   ![Visual Studi Code](https://img.shields.io/badge/Visual_Studio_Code-gray)
+  ![Matlab](https://img.shields.io/badge/Matlab-gray)
+  ![Qt](https://img.shields.io/badge/Qt-gray)
 
 
 <p align="left">
